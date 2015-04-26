@@ -1,5 +1,6 @@
 # World-Education-gap
-Data mining through beautiful soup. The data was http://unstats.un.org/unsd/demographic/products/socind/education.htm
+
+Data mining through beautiful soup. The data was acquired from http://unstats.un.org/unsd/demographic/products/socind/education.htm
 
 Goals
   - Scrape data from a webpage using Python.
